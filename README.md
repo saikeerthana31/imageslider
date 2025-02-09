@@ -1,2 +1,2 @@
-# image_slider
+# Image slider
  
